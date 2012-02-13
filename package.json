@@ -1,0 +1,17 @@
+{
+  "author": "cvd-lab <cvd-lab@email.com> (https://github.com/cvd-lab/)",
+  "name": "git-crumbs",
+  "description": "Git crumbs for beginners",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cvd-lab/git-crumbs.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvd-lab/git-crumbs.git"
+  },
+  "main": "",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
