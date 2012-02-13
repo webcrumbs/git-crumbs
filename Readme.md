@@ -1,7 +1,8 @@
-git-crumbs
+# git-crumbs
+
 Git crumbs for beginners
 
-License
+## License
 (The MIT License)
 
 Copyright (c) 2011 cvd-lab <cvd-lab@email.com>
