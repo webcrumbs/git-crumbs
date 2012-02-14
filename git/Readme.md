@@ -43,7 +43,7 @@ Your local repository consists of three "trees" maintained by git:
 * the `Index` which acts as a staging area
 * the `HEAD` which points to the last commit you've made
 
-![trees](https://github.com/cvd-lab/javascript-crumbs/raw/master/chapters/git/images/trees.png "trees")
+![trees](https://github.com/cvd-lab/git-crumbs/raw/master/git/images/trees.png "trees")
 
 
 ## add & commit
@@ -92,7 +92,7 @@ Branches are used to develop features isolated from each other.
 The master branch is the "default" branch when you create a repository.  
 Use other branches for development and merge them back to the master branch upon completion.
 
-![branches](https://github.com/cvd-lab/javascript-crumbs/raw/master/chapters/git/images/branches.png "branches")
+![branches](https://github.com/cvd-lab/git-crumbs/raw/master/git/images/branches.png "branches")
 
 To create a new branch named `feature_x` and switch to it use
 
