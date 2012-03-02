@@ -235,6 +235,7 @@ guides:
 * [GitHub Help](http://help.github.com/)
 * [A Visual Git Guide](http://marklodato.github.com/visual-git-guide/index-en.html)
 
+more on [GitHub cheat sheets](http://help.github.com/git-cheat-sheets/).
 
 ## credits
 Roger Duler, @tfnico, @fhd and Namics  
