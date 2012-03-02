@@ -148,6 +148,8 @@ After changing, mark them as merged with
 git add <filename>
 ```
 
+and then commit.
+
 Before merging changes, you can also preview them by using
 
 ```
