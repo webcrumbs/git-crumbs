@@ -1,6 +1,6 @@
 # git-crumbs
 
-Git crumbs for beginners
+[Git crumbs for beginners](https://github.com/cvd-lab/git-crumbs/blob/master/git/Readme.md)
 
 ## License
 (The MIT License)
