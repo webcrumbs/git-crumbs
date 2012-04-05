@@ -2,7 +2,7 @@
 
 ## for Beginners
 
-[getting started](https://github.com/cvd-lab/git-crumbs/blob/master/git/Readme.md)
+[getting started](https://github.com/cvdlab/git-crumbs/blob/master/git/Readme.md)
 
 ### Bakers
 
