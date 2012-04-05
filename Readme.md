@@ -1,11 +1,23 @@
 # git-crumbs
 
-[Git crumbs for beginners](https://github.com/cvd-lab/git-crumbs/blob/master/git/Readme.md)
+## for Beginners
+
+[getting started](https://github.com/cvd-lab/git-crumbs/blob/master/git/Readme.md)
+
+### Bakers
+
+- [Enrico Marino](http://onirame.no.de)
+- [Federico Spini](http://spini.no.de)
+
+### Flour
+
+- [git - the simple guide](http://rogerdudler.github.com/git-guide/)
 
 ## License
+
 (The MIT License)
 
-Copyright (c) 2012 Enrico Marino and Federico Spini for CVDLab (https://github.com/cvd-lab)
+Copyright (c) 2012 Enrico Marino and Federico Spini for CVD Lab ([http://dia.uniroma3.it/~cvdlab](http://dia.uniroma3.it/~cvdlab))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
