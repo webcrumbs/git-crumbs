@@ -3,7 +3,7 @@
 ### just a simple guide for getting started with git
 
 
-## install and install
+## download and install
 
 * [dowload git for OSX](http://code.google.com/p/git-osx-installer/downloads/list?can=3)
   * or use [homebrew](http://mxcl.github.com/homebrew/):
