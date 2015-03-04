@@ -59,14 +59,14 @@ git add <filename>
 ```
 
 ```
-git add *
+git add . -A
 ```
 
 This is the first step in the basic git workflow.  
 To actually commit these changes use
 
 ```
-git commit -m "Commit message"
+git commit -a -m "Commit message"
 ```
 
 Now the file is committed to the **HEAD**, but not in your remote repository yet.
