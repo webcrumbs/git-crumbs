@@ -1,5 +1,7 @@
 # git - the simple guide
 
+- - -
+
 ### just a simple guide for getting started with git
 
 
@@ -12,11 +14,15 @@
 * [download git for Linux](http://book.git-scm.com/2_installing_git.html)
 * [download git for Windows](http://code.google.com/p/msysgit/downloads/list?can=3)
 
+- - -
+
 ## setup
 
 * [setup git for OSX](http://help.github.com/mac-set-up-git/)
 * [setup git for Linux](http://help.github.com/linux-set-up-git/)
 * [setup git for Windows](http://help.github.com/win-set-up-git/)
+
+- - -
 
 ## create a new repository
 
@@ -26,6 +32,8 @@ create a new directory, open it and perform a
 ```
 git init
 ```
+
+- - -
 
 ## checkout a repository
 Create a working copy of a local repository by running the command
@@ -40,6 +48,7 @@ When using a remote server, the command will be
 git clone username@host:/path/to/repository
 ```
 
+- - -
 
 ## workflow
 Your local repository consists of three "trees" maintained by git: 
@@ -50,6 +59,7 @@ Your local repository consists of three "trees" maintained by git:
 
 ![trees](https://github.com/cvdlab/git-crumbs/raw/master/git/images/trees.png "trees")
 
+- - - 
 
 ## add & commit
 To propose changes (add it to the **Index**) use
@@ -71,6 +81,7 @@ git commit -a -m "Commit message"
 
 Now the file is committed to the **HEAD**, but not in your remote repository yet.
 
+- - -
 
 ## pushing changes
 Your changes are now in the **HEAD** of your local working copy.  
@@ -91,6 +102,7 @@ git remote add origin <server>
 
 Now you are able to push your changes to the selected remote server.
 
+- - - 
 
 ## branching
 Branches are used to develop features isolated from each other.  
@@ -156,6 +168,8 @@ Before merging changes, you can also preview them by using
 git diff <source_branch> <target_branch>
 ```
 
+- - -
+
 ## tagging
 It's recommended to create tags for software releases.  
 This is a known concept, which also exists in SVN.  
@@ -174,6 +188,7 @@ git log
 
 You can also use fewer characters of the commit id, it just has to be unique.
 
+- - -
 
 ## replace local changes
 In case you did something wrong (which for sure never happens ;) you can replace local changes using the command
@@ -218,8 +233,9 @@ use interactive adding
 git add -i
 ```
 
+- - -
 
-#links & resources
+## links & resources
 
 graphical clients:
 
@@ -238,6 +254,8 @@ guides:
 * [A Visual Git Guide](http://marklodato.github.com/visual-git-guide/index-en.html)
 
 more on [GitHub cheat sheets](http://help.github.com/git-cheat-sheets/).
+
+- - -
 
 ## credits
 Roger Duler, @tfnico, @fhd and Namics  
