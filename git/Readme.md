@@ -1,4 +1,9 @@
+# git - the simple guide
+
+- - -
+
 ## git - the simple guide
+
 ### just a simple guide for getting started with git
 
 - - -
@@ -34,6 +39,7 @@ git init
 - - -
 
 ## checkout a repository
+
 Create a working copy of a local repository by running the command
 
 ```
@@ -49,6 +55,7 @@ git clone username@host:/path/to/repository
 - - -
 
 ## workflow
+
 Your local repository consists of three "trees" maintained by git: 
 
 * your `Working Directory` which holds the actual files  
