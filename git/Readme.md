@@ -110,6 +110,7 @@ Now you are able to push your changes to the selected remote server.
 - - - 
 
 ## branching
+
 Branches are used to develop features isolated from each other.  
 The master branch is the "default" branch when you create a repository.  
 Use other branches for development and merge them back to the master branch upon completion.
@@ -140,8 +141,10 @@ A branch is not available to others unless you push the branch to your remote re
 git push origin <branch>
 ```
 
+- - -
 
 ## update & merge
+
 To update your local repository to the newest commit, execute 
 
 ```
@@ -176,6 +179,7 @@ git diff <source_branch> <target_branch>
 - - -
 
 ## tagging
+
 It's recommended to create tags for software releases.  
 This is a known concept, which also exists in SVN.  
 To create a new tag named 1.0.0 execute
@@ -196,6 +200,7 @@ You can also use fewer characters of the commit id, it just has to be unique.
 - - -
 
 ## replace local changes
+
 In case you did something wrong (which for sure never happens ;) you can replace local changes using the command
 
 ```
@@ -213,7 +218,10 @@ git fetch origin
 git reset --hard origin/master
 ```
 
+- - -
+
 ## useful hints
+
 built-in git GUI
 
 ```
